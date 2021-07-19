@@ -1,0 +1,87 @@
+/* common styles */
+body {
+    background-color: #F3F1FF;
+}
+
+.container h2 {
+    color: #562EFF;
+}
+
+.container h3 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+
+}
+
+/* header starts */
+header {
+    background-color: #562EFF;
+}
+
+.navbar {
+    padding: 0;
+}
+
+/* header ends */
+
+/* home start */
+.blog-desc h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    color: #000000;
+}
+
+.blog-desc span {
+    font-size: 16px;
+    line-height: 24px;
+    color: #9F9F9F;
+    margin-right: 5px;
+}
+
+.blog-desc p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #562EFF;
+}
+
+.blog-img {
+    max-width: 224px;
+    width: 100%;
+}
+
+.blog-img img {
+    max-width: 100%
+}
+
+/* home end */
+
+.course-img {
+    max-width: 100%;
+}
+
+.course-img img {
+    width: 100%;
+}
+
+.course-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #1E1E1E;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+.course-author {
+    font-size: 14px;
+    line-height: 17px;
+    color: #ED6B4F;
+}
+
+.list-unstyled i {
+    color: #FFC014;
+}
+
